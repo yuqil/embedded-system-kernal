@@ -1,0 +1,6 @@
+#define USER_PROG	0xa0000000
+#define USER_STACK	0xa3000000
+#define UBOOT_STACK	0xa1000000
+#define IRQ_STACK	0xa2000000
+
+//#define DEBUG
